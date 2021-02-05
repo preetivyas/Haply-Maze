@@ -6,8 +6,7 @@
  * @date       08-January-2021
  * @brief      wall haptic example using 2D physics engine 
  
- sketch_4_Wall_Physics.pde is an edited version of this file 
- edited by Preeti Vyas
+ sketch_4_Wall_Physics.pde is a new version of this file edited by Preeti Vyas
  **********************************************************************************************************************
  * @attention
  *
